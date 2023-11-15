@@ -1,2 +1,2 @@
 # Battleship
-In this game of battleship, the provided code will use a random generator to attack the opponent in hopes that it will choose the correct location of the opponents coordinates.
+In this game of battleship, the provided code will use a random generator to attack the opponent in hopes that it will choose the correct location of the opponents coordinates. If it hits one of the opponent's ships, it will rotate it's next hits around that point in order to locate the entirety of that ship. Once completed, the program will go back to shooting randomly until it finds another ship and repeats the process of rotating around that point to find the rest of the ship. 
